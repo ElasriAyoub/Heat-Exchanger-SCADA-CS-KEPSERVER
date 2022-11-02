@@ -1,0 +1,86 @@
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\usrlocal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sebastien.lahaye\Desktop\Enseignement\5A - SCADA systems II\OPC DA\TD1\Sol TD\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MAATAOUI\Desktop\5A\S9\SUPERVISION\TD1\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\usrlocal\Desktop\TP_Supervision_myWork\TP_Supervision\BaseTD1_OPCDA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.heat_exchanger_scada.resources
