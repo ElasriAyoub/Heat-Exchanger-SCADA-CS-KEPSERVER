@@ -6,7 +6,6 @@
 !!! - T: 28/10/2022 14:00:58 : La température est supérieur à 60°  !!!
 !!! - T: 28/10/2022 14:00:59 : La température est supérieur à 60°  !!!
 !!! - T: 28/10/2022 14:01:00 : La température est supérieur à 60°  !!!
-!!! - T: 28/10/2022 14:01:01 : La température est supérieur à 60°  !!!
 !!! - T: 28/10/2022 14:01:02 : La température est supérieur à 60°  !!!
 !!! - T: 28/10/2022 14:01:03 : La température est supérieur à 60°  !!!
 !!! - T: 28/10/2022 14:01:04 : La température est supérieur à 60°  !!!
